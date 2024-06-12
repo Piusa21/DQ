@@ -139,7 +139,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('MԾVIΞ GRԾUᎮ', url=GRP_LNK),
+                          InlineKeyboardButton('SΞRIΞS GRԾUᎮ', url=GRP_LNK),
                           InlineKeyboardButton('UᎮDΛTΞS CHΛNNΞL', url=CHNL_LNK) 
                          ]
                         ]
@@ -156,7 +156,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('MԾVIΞ GRԾUᎮ', url=GRP_LNK),
+                          InlineKeyboardButton('SΞRIΞS GRԾUᎮ', url=GRP_LNK),
                           InlineKeyboardButton('UᎮDΛTΞS CHΛNNΞL', url=CHNL_LNK)
                          ]
                         ]
@@ -273,7 +273,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('MԾVIΞ GRԾUᎮ', url=GRP_LNK),
+                      InlineKeyboardButton('SΞRIΞS GRԾUᎮ', url=GRP_LNK),
                       InlineKeyboardButton('UᎮDΛTΞS CHΛNNΞL', url=CHNL_LNK)
                      ]
                     ]
@@ -325,7 +325,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('MԾVIΞ GRԾUᎮ', url=GRP_LNK),
+              InlineKeyboardButton('SΞRIΞS GRԾUᎮ', url=GRP_LNK),
               InlineKeyboardButton('UᎮDΛTΞS CHΛNNΞL', url=CHNL_LNK)
              ]
             ]
